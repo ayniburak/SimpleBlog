@@ -1,3 +1,3 @@
 # SimpleBlog
 Grup olarak birçok teknolojiyi öğreneceğimiz projemiz
-(dotnetcore mvc, redis, docker, migration)
+(dotnetcore mvc, redis, docker, migration...)
